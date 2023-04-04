@@ -1,3 +1,5 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JUNHA's%20Github&fontSize=80)
 
 ---
@@ -16,7 +18,7 @@
 
 ---
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha-lee&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha-lee&show_icons=true)]
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha-lee&layout=compact)](https://github.com/junha-lee/github-readme-stats)
 
