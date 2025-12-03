@@ -14,11 +14,6 @@
 ---
 
 ### Experiences
-
----
-    
-![Junha's GitHub stats](https://github-readme-stats-idva0fi97-junha4304-1299s-projects.vercel.app/api?username=junha-lee&count_private=true&show_icons=true&cache_seconds=7200)
-
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha-lee&layout=compact)](https://github.com/junha-lee/github-readme-stats)
 
