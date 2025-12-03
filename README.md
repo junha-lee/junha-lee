@@ -18,7 +18,7 @@
 
 ---
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha-lee&show_icons=true)
+[![junha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha-lee)](https://github.com/junha-lee/github-readme-stats)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha-lee&layout=compact)](https://github.com/junha-lee/github-readme-stats)
 
